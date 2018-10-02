@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538498515963.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4238850955",
+    "id" : "B3D48BC4",
+    "lastKnownWriteTime" : 1538498549,
+    "last_content_update" : 1538498549496,
+    "path" : "C:/Users/AV058983/OneDrive - Cerner Corporation/Data & Analytics/R/Coursera Project/Course 3/Getting and Cleaning Data/run_analysis.R",
+    "project_path" : "run_analysis.R",
+    "properties" : {
+        "cursorPosition" : "73,70",
+        "scrollLine" : "46"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
